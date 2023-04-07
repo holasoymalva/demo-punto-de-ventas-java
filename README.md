@@ -7,7 +7,7 @@ Los puntos de venta son herramientas esenciales en muchos negocios, por lo que e
 
 ## Informacion del proyecto.
 
-* Java en su version: Java 8
+- ✅ Java en su version: Java 8
 
 ## Como ejecutar el proyecto.
 
