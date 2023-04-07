@@ -30,3 +30,5 @@ Los puntos de venta son herramientas esenciales en muchos negocios, por lo que e
 
 ## Autores.
 
+Coded by ([@HolaSoyMalva](https://github.com/holasoymalva)).
+
