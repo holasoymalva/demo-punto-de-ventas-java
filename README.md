@@ -26,7 +26,7 @@ Los puntos de venta son herramientas esenciales en muchos negocios, por lo que e
 ## 👩🏻‍🔬 Lo que aprendi
 
 
-## Referencias
+## 📚 Referencias
 
 * [Punto de ventas Odoo](https://www.odoo.com/es_ES/app/point-of-sale-shop?utm_source=google&utm_medium=cpc&utm_campaign=MX-ES-POS&utm_gclid=Cj0KCQjwtsCgBhDEARIsAE7RYh2j11gQyRTyPEldo8bkNiVEYnBD9loX5uH7CemHxvUxZoSi-abg7x8aAvE0EALw_wcB&gclid=Cj0KCQjwtsCgBhDEARIsAE7RYh2j11gQyRTyPEldo8bkNiVEYnBD9loX5uH7CemHxvUxZoSi-abg7x8aAvE0EALw_wcB)
 
