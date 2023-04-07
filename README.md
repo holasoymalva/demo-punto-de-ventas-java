@@ -1,1 +1,2 @@
-# demo-punto-de-ventas-java
+# Demo proyecto : Punto de ventas en java
+
